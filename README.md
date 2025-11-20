@@ -1,4 +1,4 @@
-# Breweries Directory - Companies Directory Application
+#  Companies Directory Application
 
 A React-based frontend application that displays brewery data from the Open Brewery DB API with advanced filtering, sorting, and pagination features.
 

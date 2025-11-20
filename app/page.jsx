@@ -142,7 +142,7 @@ export default function Page() {
       <div className="container">
         {/* Page Header */}
         <div className="header">
-          <h1>Breweries Directory</h1>
+          <h1>Companies Directory</h1>
           <p>Real-time brewery data from Open Brewery DB API with dynamic filtering and sorting</p>
         </div>
 
